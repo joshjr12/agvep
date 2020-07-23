@@ -9,3 +9,31 @@ h1 {
   font-style: italic;
   color: #373fff;
 }
+
+div {
+  Background-image: url(background-image: url(https://picsum.photos/800/300);
+}
+/* class="nobg"  */
+.nobg {
+  Background-image: none; 
+} 
+/*  class="fontcolor" */
+.fontcolor {
+/* color: rgb(0,0,0);   */ 
+  color: #eaef26;
+background-color: white !important;
+}
+
+a {
+color: black;
+text-decoration: underline;
+  background-color: yellow;
+}
+a:hover {
+  color: purple;
+
+}
+
+/* parent child */
+ul li 
+  display: inline;
