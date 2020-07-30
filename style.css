@@ -27,10 +27,10 @@ background-color: white !important;
 a {
 color: black;
 text-decoration: underline;
-  background-color: yellow;
+  background-color: white;
 }
 a:hover {
-  color: purple;
+  color: black;
 
 }
 
